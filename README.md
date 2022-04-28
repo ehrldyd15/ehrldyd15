@@ -10,8 +10,5 @@
 ### Hi there 👋
 
 <!--
-배지 커스텀 https://shields.io/ 
-배지 아이콘 저장소 https://simpleicons.org/
-배너 이미지 오픈 API https://github.com/kyechan99/capsule-render
-마크다운 프리뷰 https://dillinger.io/
+깃허브 토큰 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
 -->

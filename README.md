@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=DKY의%20IOS개발%20일기)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&text=IOS%20프리랜서%20개발자의%20코드저장소)
 ### Hi there 👋
 
 <!--

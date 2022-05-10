@@ -10,5 +10,5 @@
 ### Hi there 👋
 
 <!--
-깃허브 토큰 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
+깃허브 토큰 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
 -->

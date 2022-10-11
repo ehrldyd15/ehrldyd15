@@ -15,8 +15,5 @@ Email = dky0979@gmail.com
 
 ✅ ❌
 
-<!--
-깃허브 토큰 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
--->
 
 
